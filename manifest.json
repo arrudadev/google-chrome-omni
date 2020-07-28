@@ -1,7 +1,7 @@
-{
+{    
+    "name": "Omni Chrome Theme - A dark theme based on Dracula 🧛🏻‍♂️",
     "description": "Chrome Omni scheme color theme",
     "manifest_version": 2,
-    "name": "Omni Chrome Theme - A dark theme based on Dracula 🧛🏻‍♂️",
     "version": "1.0",
     "icons": {
       "16": "images/icon16.png",
