@@ -4,15 +4,23 @@
 </h1>
 
 <p align="center">
+    Dark theme for Google Chrome    
+</p>
+
+This is not the official Omni theme repository for Google Chrome. See the official [`Repository`](https://github.com/getomni/google-chrome).
+
+<p align="center">
     <img src="./images/screenshot.png" alt="preview"/>
 </p>
 
 ## Install
 
-Not yet available in the Chrome Web Store, it will be added in the future.
+Install the official theme through the [Google Chrome Store](https://chrome.google.com/webstore/detail/omni-dark-theme-for-chrom/loclkialbcifjohhglkomgamgpolpcoh).
 <br />
 
-### Anyway, to install follow the instructions below
+### Or you can install the theme for using this repository
+
+follow the instructions below:
 
     git clone https://github.com/monteiro-alexandre/google-chrome-omni.git
 
